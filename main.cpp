@@ -6,8 +6,6 @@
  **
  ** Homework 03 / Project 02
  **
- ** AUTHOR:
- ** Yousef Gtat
  **
  ** CREATION DATE:
  ** 02/27/2015
